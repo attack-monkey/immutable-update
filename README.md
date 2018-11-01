@@ -1,4 +1,4 @@
-# immutable-update
+# immutable-update object (iu-object)
 Immutably and easily update deep nested objects
 
 
