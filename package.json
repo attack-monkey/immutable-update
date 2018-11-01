@@ -1,0 +1,24 @@
+{
+  "name": "iu-object",
+  "version": "1.0.0",
+  "description": "immutably and easily update deep nested objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/attack-monkey/immutable-update.git"
+  },
+  "keywords": [
+    "immutable",
+    "javascript"
+  ],
+  "author": "attack monkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/attack-monkey/immutable-update/issues"
+  },
+  "homepage": "https://github.com/attack-monkey/immutable-update#readme"
+}
